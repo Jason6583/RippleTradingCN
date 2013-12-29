@@ -1,0 +1,13 @@
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\RippleUtility.dll
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\RippleUtility.pdb
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\Jayrock.Json.dll
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\Jayrock.Sandbox.dll
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\Newtonsoft.Json.dll
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\WebSocket4Net.dll
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\Jayrock.Json.pdb
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\Jayrock.Sandbox.pdb
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\Newtonsoft.Json.pdb
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\Newtonsoft.Json.xml
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\bin\Release\WebSocket4Net.pdb
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\obj\Release\RippleUtility.dll
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleUtility\obj\Release\RippleUtility.pdb

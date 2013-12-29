@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RippleUtility", "RippleUtility\RippleUtility.csproj", "{43AA6C8D-971A-4A98-9B16-82527AA858C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RippleTrading", "RippleTrading\RippleTrading.csproj", "{FA54FCE6-45A5-49A6-B755-28261A303423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43AA6C8D-971A-4A98-9B16-82527AA858C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AA6C8D-971A-4A98-9B16-82527AA858C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AA6C8D-971A-4A98-9B16-82527AA858C6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AA6C8D-971A-4A98-9B16-82527AA858C6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FA54FCE6-45A5-49A6-B755-28261A303423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA54FCE6-45A5-49A6-B755-28261A303423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA54FCE6-45A5-49A6-B755-28261A303423}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA54FCE6-45A5-49A6-B755-28261A303423}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

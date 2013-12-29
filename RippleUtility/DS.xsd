@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS" targetNamespace="http://tempuri.org/DS.xsd" xmlns:mstns="http://tempuri.org/DS.xsd" xmlns="http://tempuri.org/DS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS" msprop:Generator_UserDSName="DS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Ask" msprop:Generator_TableClassName="AskDataTable" msprop:Generator_TableVarName="tableAsk" msprop:Generator_RowChangedName="AskRowChanged" msprop:Generator_TablePropName="Ask" msprop:Generator_RowDeletingName="AskRowDeleting" msprop:Generator_RowChangingName="AskRowChanging" msprop:Generator_RowEvHandlerName="AskRowChangeEventHandler" msprop:Generator_RowDeletedName="AskRowDeleted" msprop:Generator_RowClassName="AskRow" msprop:Generator_UserTableName="Ask" msprop:Generator_RowEvArgName="AskRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Ask" msprop:Generator_ColumnVarNameInTable="columnAsk" msprop:Generator_ColumnPropNameInRow="Ask" msprop:Generator_ColumnPropNameInTable="AskColumn" msprop:Generator_UserColumnName="Ask" type="xs:double" minOccurs="0" />
+              <xs:element name="AskQty" msprop:Generator_ColumnVarNameInTable="columnAskQty" msprop:Generator_ColumnPropNameInRow="AskQty" msprop:Generator_ColumnPropNameInTable="AskQtyColumn" msprop:Generator_UserColumnName="AskQty" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Bid" msprop:Generator_TableClassName="BidDataTable" msprop:Generator_TableVarName="tableBid" msprop:Generator_RowChangedName="BidRowChanged" msprop:Generator_TablePropName="Bid" msprop:Generator_RowDeletingName="BidRowDeleting" msprop:Generator_RowChangingName="BidRowChanging" msprop:Generator_RowEvHandlerName="BidRowChangeEventHandler" msprop:Generator_RowDeletedName="BidRowDeleted" msprop:Generator_RowClassName="BidRow" msprop:Generator_UserTableName="Bid" msprop:Generator_RowEvArgName="BidRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Bid" msdata:Caption="Ask" msprop:Generator_ColumnVarNameInTable="columnBid" msprop:Generator_ColumnPropNameInRow="Bid" msprop:Generator_ColumnPropNameInTable="BidColumn" msprop:Generator_UserColumnName="Bid" type="xs:double" minOccurs="0" />
+              <xs:element name="BidQty" msdata:Caption="AskQty" msprop:Generator_ColumnVarNameInTable="columnBidQty" msprop:Generator_ColumnPropNameInRow="BidQty" msprop:Generator_ColumnPropNameInTable="BidQtyColumn" msprop:Generator_UserColumnName="BidQty" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="BidAsk" msprop:Generator_TableClassName="BidAskDataTable" msprop:Generator_TableVarName="tableBidAsk" msprop:Generator_TablePropName="BidAsk" msprop:Generator_RowDeletingName="BidAskRowDeleting" msprop:Generator_RowChangingName="BidAskRowChanging" msprop:Generator_RowEvHandlerName="BidAskRowChangeEventHandler" msprop:Generator_RowDeletedName="BidAskRowDeleted" msprop:Generator_UserTableName="BidAsk" msprop:Generator_RowChangedName="BidAskRowChanged" msprop:Generator_RowEvArgName="BidAskRowChangeEvent" msprop:Generator_RowClassName="BidAskRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Bid" msdata:Caption="Ask" msprop:Generator_ColumnVarNameInTable="columnBid" msprop:Generator_ColumnPropNameInRow="Bid" msprop:Generator_ColumnPropNameInTable="BidColumn" msprop:Generator_UserColumnName="Bid" type="xs:double" minOccurs="0" />
+              <xs:element name="BidQty" msdata:Caption="AskQty" msprop:Generator_ColumnVarNameInTable="columnBidQty" msprop:Generator_ColumnPropNameInRow="BidQty" msprop:Generator_ColumnPropNameInTable="BidQtyColumn" msprop:Generator_UserColumnName="BidQty" type="xs:double" minOccurs="0" />
+              <xs:element name="Ask" msprop:Generator_ColumnVarNameInTable="columnAsk" msprop:Generator_ColumnPropNameInRow="Ask" msprop:Generator_ColumnPropNameInTable="AskColumn" msprop:Generator_UserColumnName="Ask" type="xs:double" minOccurs="0" />
+              <xs:element name="AskQty" msprop:Generator_ColumnVarNameInTable="columnAskQty" msprop:Generator_ColumnPropNameInRow="AskQty" msprop:Generator_ColumnPropNameInTable="AskQtyColumn" msprop:Generator_UserColumnName="AskQty" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

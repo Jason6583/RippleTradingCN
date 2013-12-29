@@ -1,0 +1,6 @@
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleTrading\bin\Release\RippleTrading.exe.config
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleTrading\obj\Release\RippleTrading.csprojResolveAssemblyReference.cache
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleTrading\obj\Release\RippleTrading.AboutBox1.resources
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleTrading\obj\Release\RippleTrading.Form1.resources
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleTrading\obj\Release\RippleTrading.Properties.Resources.resources
+C:\Users\HL\Documents\Visual Studio 2012\Projects\RippleTradingCN\RippleTrading\obj\Release\RippleTrading.csproj.GenerateResource.Cache
